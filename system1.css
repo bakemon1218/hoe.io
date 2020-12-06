@@ -1,0 +1,108 @@
+.logo-top{
+  font-size:18px;
+  margin:0px;
+  padding:0px;
+}
+.logo{
+  margin-top:0px;
+
+}
+.logo-top,.logo{
+  font-family:'游ゴシック';
+  color:#696969;
+  margin-left:110px;
+  text-decoration: none;
+}
+.logo-top,.logo:active{
+  background-color:
+}
+.blue{
+  color:#4169e1;
+}
+
+header{
+
+  width:auto;
+  height:100%;
+  border-bottom:3px solid #778899;
+  background:rgba:rgba(245,245,245,0.65);
+  margin-bottom:0px;
+
+
+}
+.akusesu{
+  float: right;
+  color:#191970;
+  text-decoration: none;
+  margin:0px 110px 0px 0px;
+  font-family:'游ゴシック';
+  border-left: 1px solid #b0c4de;
+  border-right: 1px solid #b0c4de;
+  padding :40px 20px 5px 20px;
+}
+.PR{
+  float: right;
+  color:#191970;
+  text-decoration: none;
+  margin:0px 0px 0px 0px;
+  font-family:'游ゴシック';
+  border-left: 1px solid #b0c4de;
+  padding :40px 20px 5px 20px;0px;
+}
+.ikon{
+  float:right;
+  height:30px;
+}
+
+.body1{
+
+height:900px;
+width:auto;
+background-color:black;
+}
+.systaitle{
+	color:white;
+	margin-top:0px;
+}
+
+.Yu{
+	font-family:'Yu Mincho';
+	font-size:50px;
+}
+.hira{
+	font-family:'Hiragino Kaku Gothic Pro';
+	font-size:21px;
+}
+.MS{
+	font-family:'MS PMincho';
+	font-size:70px;
+	color:red;
+}
+.msa{
+	font-family:'MS UI Gothic';
+	font-size:2px;
+}
+.gosi{
+	font-family:'MS PMincho';
+	font-size:50px;
+}
+.mei{
+	font-family:'Meiryo';
+	font-size:79px;
+	color:red;
+}
+.hiraa{
+	font-family:'Hiragino Kaku Gothic Std';
+	font-size:100px;
+}
+.hirakaku{
+	font-family:'Hiragino Maru Gothic Pro';
+	font-size:21px;
+}
+.msa:hover {
+    font-size:100px;
+	background: -webkit-linear-gradient(0deg,#800080, #800000, #FF0080);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent
+}
+
